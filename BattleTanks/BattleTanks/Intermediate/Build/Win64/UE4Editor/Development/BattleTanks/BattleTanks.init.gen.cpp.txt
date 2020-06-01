@@ -1,0 +1,3 @@
+C:\Users\Eric\Documents\Unreal Projects\Unreal_BattleTanks\BattleTanks\BattleTanks\Intermediate\Build\Win64\UE4Editor\Development\BattleTanks\Definitions.BattleTanks.h
+E:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
