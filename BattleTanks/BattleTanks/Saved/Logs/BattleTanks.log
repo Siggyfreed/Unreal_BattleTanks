@@ -573,3 +573,451 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.01-22.15.52:921][  2]LogAssetRegistry: Asset discovery search completed in 139.5203 seconds
 [2020.06.01-22.15.52:949][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2020.06.01-22.15.52:949][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2020.06.01-22.23.50:345][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-22.23.54:851][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-22.24.04:378][730]LogSlate: Window 'Save Level As' being destroyed
+[2020.06.01-22.24.04:381][730]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2020.06.01-22.24.04:809][730]LogSlate: Took 0.053546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.01-22.24.05:049][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.06.01-22.24.05:132][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.06.01-22.24.06:291][730]LogSavePackage: Moving 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Saved/BattlegroundA14E43F34D5CD22B7A050081552B2AA8.tmp' to 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Content/Battleground.umap'
+[2020.06.01-22.24.06:457][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battleground_BuiltData" FILE="C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Content/Battleground_BuiltData.uasset" SILENT=true
+[2020.06.01-22.24.06:495][730]LogSavePackage: Moving 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Saved/Battleground_BuiltData8FE696224355634808A1228BD20683FE.tmp' to 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Content/Battleground_BuiltData.uasset'
+[2020.06.01-22.24.06:506][730]LogFileHelpers: Saving map 'Battleground' took 1.765
+[2020.06.01-22.24.06:534][730]Cmd: MAP LOAD FILE="C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Content/Battleground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.01-22.24.06:553][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-22.24.06:573][730]LightingResults: New page: Lighting Build
+[2020.06.01-22.24.06:574][730]LoadErrors: New page: Loading map: Battleground.umap
+[2020.06.01-22.24.06:655][730]MapCheck: New page: Map Check
+[2020.06.01-22.24.06:655][730]LightingResults: New page: Lighting Build
+[2020.06.01-22.24.06:855][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.06.01-22.24.06:891][730]LogAIModule: Creating AISystem for world Battleground
+[2020.06.01-22.24.06:966][730]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.01-22.24.06:993][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.06.01-22.24.07:004][730]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.01-22.24.07:004][730]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2020.06.01-22.24.07:004][730]LogFileHelpers: Loading map 'Battleground' took 0.498
+[2020.06.01-22.24.07:343][738]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.01-22.24.08:603][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-22.24.26:127][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.01-22.24.27:017][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.06.01-22.24.27:806][364]Cmd: DELETE
+[2020.06.01-22.24.27:806][364]Cmd: ACTOR DELETE
+[2020.06.01-22.24.28:135][364]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.01-22.24.28:188][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.06.01-22.24.28:204][364]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2020.06.01-22.24.39:067][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-22.24.47:609][448]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.06.01-22.25.09:775][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-22.25.12:864][807]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.06.01-22.25.12:864][807]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.06.01-22.25.12:864][807]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2020.06.01-22.25.12:864][807]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2020.06.01-22.25.12:864][807]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2020.06.01-22.25.12:864][807]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.06.01-22.25.12:869][807]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.06.01-22.25.12:869][807]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2020.06.01-22.25.12:878][807]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2020.06.01-22.25.12:878][807]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.06.01-22.25.12:886][807]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2020.06.01-22.25.12:887][807]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2020.06.01-22.25.12:892][807]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2020.06.01-22.25.12:898][807]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2020.06.01-22.25.12:898][807]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2020.06.01-22.25.12:902][807]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2020.06.01-22.25.12:962][807]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2020.06.01-22.25.29:355][807]LogShaderCompilers: Display: Shaders left to compile 110
+[2020.06.01-22.25.29:355][807]LogShaderCompilers: Display: Shaders left to compile 100
+[2020.06.01-22.25.29:355][807]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.06.01-22.25.29:355][807]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.06.01-22.25.29:355][807]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.06.01-22.25.29:355][807]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.06.01-22.25.29:355][807]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.06.01-22.25.29:355][807]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.06.01-22.25.29:355][807]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.06.01-22.25.29:355][807]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.06.01-22.25.29:355][807]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.06.01-22.25.54:589][ 87]Cmd: POLY SELECT ADJACENT WALLS
+[2020.06.01-22.26.30:102][418]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.06.01-22.26.30:564][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-22.26.30:930][433]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.06.01-22.26.31:596][464]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.06.01-22.26.31:630][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-22.26.35:174][735]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2020.06.01-22.27.00:703][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-22.27.23:508][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-22.27.27:825][258]Cmd: DELETE
+[2020.06.01-22.27.27:825][258]Cmd: ACTOR DELETE
+[2020.06.01-22.27.27:862][258]LogEditorActor: Deleted Actor: Landscape
+[2020.06.01-22.27.28:302][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.06.01-22.27.28:303][258]LogEditorActor: Deleted 1 Actors (0.459 secs)
+[2020.06.01-22.27.32:184][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-22.27.32:257][654]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2020.06.01-22.33.54:568][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.06.01-22.33.54:896][319]LogSavePackage: Moving 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Saved/Battleground_Auto1F97127B24D49CD2F67235E87A4E0928D.tmp' to 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Saved/Autosaves/Game/Battleground_Auto1.umap'
+[2020.06.01-22.33.54:902][319]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Battleground' took 0.366
+[2020.06.01-22.33.54:902][319]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.366
+[2020.06.01-22.34.21:963][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-22.34.44:999][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-22.34.53:420][825]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 512X512)
+[2020.06.01-22.34.53:420][825]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2020.06.01-22.34.53:420][825]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 512X512)
+[2020.06.01-22.34.53:421][825]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 512X512)
+[2020.06.01-22.34.53:426][825]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 512X512)
+[2020.06.01-22.34.53:435][825]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 512X512)
+[2020.06.01-22.34.53:435][825]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 512X512)
+[2020.06.01-22.34.53:440][825]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 512X512)
+[2020.06.01-22.34.53:449][825]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 512X512)
+[2020.06.01-22.34.53:449][825]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 512X512)
+[2020.06.01-22.34.53:457][825]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 512X512)
+[2020.06.01-22.34.53:462][825]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 512X512)
+[2020.06.01-22.34.53:466][825]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 512X512)
+[2020.06.01-22.34.53:468][825]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 512X512)
+[2020.06.01-22.34.53:474][825]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 512X512)
+[2020.06.01-22.34.53:476][825]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 512X512)
+[2020.06.01-22.35.29:266][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-22.35.32:000][577]MapCheck: New page: Map Check
+[2020.06.01-22.35.32:080][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-22.35.32:268][577]LightingResults: New page: Lighting Build - Jun 1, 2020, 12:35:32 PM
+[2020.06.01-22.35.33:180][577]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.06.01-22.35.33:750][577]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.06.01-22.35.33:844][577]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.06.01-22.35.35:848][577]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.06.01-22.35.35:848][577]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23112
+[2020.06.01-22.35.38:504][577]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.06.01-22.35.38:526][577]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.06.01-22.35.38:526][577]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.06.01-22.35.38:526][577]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.06.01-22.35.38:526][577]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.06.01-22.35.38:526][577]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.06.01-22.35.39:054][577]LogEditorBuildUtils: Build time 0:06
+[2020.06.01-22.35.39:130][578]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1027, compiling. Is special engine material.
+[2020.06.01-22.35.39:222][578]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1027, compiling. Is special engine material.
+[2020.06.01-22.35.51:718][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.06.01-22.36.25:368][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-22.36.25:593][380]LogSlate: Took 0.109509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.06.01-22.36.35:406][768]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2020.06.01-22.36.36:618][768]Job has failed! Job is closed while Tasks are still PENDING
+[2020.06.01-22.36.36:652][768]DumpUnbuiltLightIteractions
+[2020.06.01-22.36.36:652][768]Lights with unbuilt interactions: 1
+[2020.06.01-22.36.36:652][768]    Light LightSource
+[2020.06.01-22.36.36:652][768]
+[2020.06.01-22.36.36:652][768]Primitives with unbuilt interactions: 64
+[2020.06.01-22.36.36:652][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_63
+[2020.06.01-22.36.36:652][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_62
+[2020.06.01-22.36.36:652][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_61
+[2020.06.01-22.36.36:652][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_60
+[2020.06.01-22.36.36:653][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_59
+[2020.06.01-22.36.36:653][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_58
+[2020.06.01-22.36.36:653][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_57
+[2020.06.01-22.36.36:653][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_56
+[2020.06.01-22.36.36:653][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_55
+[2020.06.01-22.36.36:653][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_54
+[2020.06.01-22.36.36:654][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_53
+[2020.06.01-22.36.36:654][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_52
+[2020.06.01-22.36.36:654][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_51
+[2020.06.01-22.36.36:654][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_50
+[2020.06.01-22.36.36:654][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_49
+[2020.06.01-22.36.36:654][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_48
+[2020.06.01-22.36.36:654][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_47
+[2020.06.01-22.36.36:655][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_46
+[2020.06.01-22.36.36:655][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_45
+[2020.06.01-22.36.36:655][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_44
+[2020.06.01-22.36.36:655][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_43
+[2020.06.01-22.36.36:655][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_42
+[2020.06.01-22.36.36:655][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_41
+[2020.06.01-22.36.36:656][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_40
+[2020.06.01-22.36.36:656][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_39
+[2020.06.01-22.36.36:656][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_38
+[2020.06.01-22.36.36:656][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_37
+[2020.06.01-22.36.36:656][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_36
+[2020.06.01-22.36.36:656][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_35
+[2020.06.01-22.36.36:656][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_34
+[2020.06.01-22.36.36:657][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_33
+[2020.06.01-22.36.36:657][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_32
+[2020.06.01-22.36.36:657][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_31
+[2020.06.01-22.36.36:657][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_30
+[2020.06.01-22.36.36:657][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_29
+[2020.06.01-22.36.36:657][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_28
+[2020.06.01-22.36.36:657][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_27
+[2020.06.01-22.36.36:658][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_26
+[2020.06.01-22.36.36:658][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_25
+[2020.06.01-22.36.36:658][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_24
+[2020.06.01-22.36.36:658][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_23
+[2020.06.01-22.36.36:659][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_22
+[2020.06.01-22.36.36:659][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_21
+[2020.06.01-22.36.36:659][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_20
+[2020.06.01-22.36.36:659][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_19
+[2020.06.01-22.36.36:659][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_18
+[2020.06.01-22.36.36:659][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_17
+[2020.06.01-22.36.36:660][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_16
+[2020.06.01-22.36.36:660][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_15
+[2020.06.01-22.36.36:660][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_14
+[2020.06.01-22.36.36:660][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_13
+[2020.06.01-22.36.36:660][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_12
+[2020.06.01-22.36.36:660][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_11
+[2020.06.01-22.36.36:661][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_10
+[2020.06.01-22.36.36:661][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_9
+[2020.06.01-22.36.36:661][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_8
+[2020.06.01-22.36.36:661][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_7
+[2020.06.01-22.36.36:661][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_6
+[2020.06.01-22.36.36:661][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_5
+[2020.06.01-22.36.36:661][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_4
+[2020.06.01-22.36.36:662][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_3
+[2020.06.01-22.36.36:662][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_2
+[2020.06.01-22.36.36:662][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_1
+[2020.06.01-22.36.36:662][768]    Primitive LandscapeComponent /Game/Battleground.Battleground:PersistentLevel.Landscape_1.LandscapeComponent_0
+[2020.06.01-22.36.37:334][769]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.06.01-22.36.37:335][769]MapCheck: New page: Battleground - Jun 1, 2020, 12:36:37 PM
+[2020.06.01-22.36.37:409][769]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.06.01-22.36.37:588][769]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 252.312ms to complete.
+[2020.06.01-22.36.40:964][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-22.36.48:948][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-22.36.57:605][144]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-22.36.59:132][317]MapCheck: New page: Map Check
+[2020.06.01-22.36.59:137][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-22.36.59:148][317]LightingResults: New page: Lighting Build - Jun 1, 2020, 12:36:59 PM
+[2020.06.01-22.36.59:246][317]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.06.01-22.36.59:252][317]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.06.01-22.36.59:252][317]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.06.01-22.36.59:253][317]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.06.01-22.36.59:253][317]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23112
+[2020.06.01-22.37.04:769][317]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.06.01-22.37.04:769][317]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.06.01-22.37.04:769][317]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.06.01-22.37.04:769][317]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.06.01-22.37.04:769][317]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.06.01-22.37.05:170][317]LogEditorBuildUtils: Build time 0:06
+[2020.06.01-22.37.05:295][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.06.01-22.40.34:288][591]Job is a success!
+[2020.06.01-22.40.35:144][592]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.128s
+[2020.06.01-22.40.35:144][592]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.06.01-22.40.35:144][592]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb
+[2020.06.01-22.40.35:145][592]LogVolumetricLightmapImport:      Bricks at Level
+[2020.06.01-22.40.35:145][592]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2020.06.01-22.40.35:145][592]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2020.06.01-22.40.35:145][592]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2020.06.01-22.40.51:102][592]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:103][592]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2020.06.01-22.40.51:103][592]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:103][592]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2020.06.01-22.40.51:103][592]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:103][592]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2020.06.01-22.40.51:103][592]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:103][592]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2020.06.01-22.40.51:104][592]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:104][592]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2020.06.01-22.40.51:104][592]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:104][592]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2020.06.01-22.40.51:104][592]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:104][592]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 512X512)
+[2020.06.01-22.40.51:104][592]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:105][592]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2020.06.01-22.40.51:105][592]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:105][592]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2020.06.01-22.40.51:105][592]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:105][592]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 512X512)
+[2020.06.01-22.40.51:105][592]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:105][592]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 512X512)
+[2020.06.01-22.40.51:105][592]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:105][592]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 512X512)
+[2020.06.01-22.40.51:106][592]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:106][592]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 512X512)
+[2020.06.01-22.40.51:106][592]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:106][592]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 512X512)
+[2020.06.01-22.40.51:106][592]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:107][592]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 512X512)
+[2020.06.01-22.40.51:107][592]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:107][592]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 512X512)
+[2020.06.01-22.40.51:107][592]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:107][592]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2020.06.01-22.40.51:107][592]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:107][592]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 512X512)
+[2020.06.01-22.40.51:107][592]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:107][592]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 512X512)
+[2020.06.01-22.40.51:107][592]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:108][592]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 512X512)
+[2020.06.01-22.40.51:108][592]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:108][592]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 512X512)
+[2020.06.01-22.40.51:108][592]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:108][592]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 512X512)
+[2020.06.01-22.40.51:108][592]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:108][592]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 512X512)
+[2020.06.01-22.40.51:108][592]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:108][592]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 512X512)
+[2020.06.01-22.40.51:109][592]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:109][592]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 512X512)
+[2020.06.01-22.40.51:109][592]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:109][592]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 512X512)
+[2020.06.01-22.40.51:109][592]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:109][592]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 512X512)
+[2020.06.01-22.40.51:109][592]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:109][592]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 512X512)
+[2020.06.01-22.40.51:109][592]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:110][592]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 512X512)
+[2020.06.01-22.40.51:110][592]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:110][592]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 512X512)
+[2020.06.01-22.40.51:110][592]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:110][592]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 512X512)
+[2020.06.01-22.40.51:110][592]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:110][592]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 512X512)
+[2020.06.01-22.40.51:111][592]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:111][592]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 512X512)
+[2020.06.01-22.40.51:111][592]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:111][592]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 512X512)
+[2020.06.01-22.40.51:111][592]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:111][592]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 512X512)
+[2020.06.01-22.40.51:111][592]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:111][592]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 512X512)
+[2020.06.01-22.40.51:111][592]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:112][592]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 512X512)
+[2020.06.01-22.40.51:112][592]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:112][592]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 512X512)
+[2020.06.01-22.40.51:112][592]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:112][592]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 512X512)
+[2020.06.01-22.40.51:112][592]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:112][592]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 512X512)
+[2020.06.01-22.40.51:112][592]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:112][592]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 512X512)
+[2020.06.01-22.40.51:113][592]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:113][592]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 512X512)
+[2020.06.01-22.40.51:113][592]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:113][592]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 512X512)
+[2020.06.01-22.40.51:113][592]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:113][592]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 512X512)
+[2020.06.01-22.40.51:113][592]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:113][592]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 512X512)
+[2020.06.01-22.40.51:113][592]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:113][592]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 512X512)
+[2020.06.01-22.40.51:114][592]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:114][592]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 512X512)
+[2020.06.01-22.40.51:114][592]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 512X512)
+[2020.06.01-22.40.51:114][592]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:114][592]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:114][592]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 512X512)
+[2020.06.01-22.40.51:114][592]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:114][592]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 512X512)
+[2020.06.01-22.40.51:114][592]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:114][592]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 512X512)
+[2020.06.01-22.40.51:115][592]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:115][592]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 512X512)
+[2020.06.01-22.40.51:115][592]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:115][592]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 512X512)
+[2020.06.01-22.40.51:115][592]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:115][592]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 512X512)
+[2020.06.01-22.40.51:115][592]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:115][592]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 512X512)
+[2020.06.01-22.40.51:115][592]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:116][592]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 512X512)
+[2020.06.01-22.40.51:116][592]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:116][592]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 512X512)
+[2020.06.01-22.40.51:116][592]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:116][592]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 512X512)
+[2020.06.01-22.40.51:116][592]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:116][592]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 512X512)
+[2020.06.01-22.40.51:116][592]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:116][592]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 512X512)
+[2020.06.01-22.40.51:116][592]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:117][592]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 512X512)
+[2020.06.01-22.40.51:117][592]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:117][592]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 512X512)
+[2020.06.01-22.40.51:117][592]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:117][592]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 512X512)
+[2020.06.01-22.40.51:117][592]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 512X512)
+[2020.06.01-22.40.51:117][592]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 512X512)
+[2020.06.01-22.40.51:117][592]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 64X64)
+[2020.06.01-22.40.51:117][592]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 64X64)
+[2020.06.01-22.40.51:303][592]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X256)
+[2020.06.01-22.40.51:303][592]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2020.06.01-22.40.51:303][592]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X256)
+[2020.06.01-22.40.51:303][592]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X256)
+[2020.06.01-22.40.51:303][592]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X256)
+[2020.06.01-22.40.51:303][592]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X256)
+[2020.06.01-22.40.51:304][592]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X256)
+[2020.06.01-22.40.51:304][592]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X256)
+[2020.06.01-22.40.51:304][592]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X256)
+[2020.06.01-22.40.51:305][592]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 256X256)
+[2020.06.01-22.40.51:305][592]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X256)
+[2020.06.01-22.40.51:305][592]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X256)
+[2020.06.01-22.40.51:305][592]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X256)
+[2020.06.01-22.40.51:305][592]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X256)
+[2020.06.01-22.40.51:305][592]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X256)
+[2020.06.01-22.40.51:504][592]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X256)
+[2020.06.01-22.40.51:504][592]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X256)
+[2020.06.01-22.40.51:504][592]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X256)
+[2020.06.01-22.40.51:504][592]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 256X256)
+[2020.06.01-22.40.51:506][592]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 256X256)
+[2020.06.01-22.40.51:506][592]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X256)
+[2020.06.01-22.40.51:506][592]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X256)
+[2020.06.01-22.40.51:506][592]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 256X256)
+[2020.06.01-22.40.51:507][592]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 256X256)
+[2020.06.01-22.40.51:507][592]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X256)
+[2020.06.01-22.40.51:507][592]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 256X256)
+[2020.06.01-22.40.51:508][592]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 256X256)
+[2020.06.01-22.40.51:508][592]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 256X256)
+[2020.06.01-22.40.51:520][592]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 256X256)
+[2020.06.01-22.40.51:520][592]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 256X256)
+[2020.06.01-22.40.51:521][592]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 256X256)
+[2020.06.01-22.40.51:521][592]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 256X256)
+[2020.06.01-22.40.51:521][592]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 256X256)
+[2020.06.01-22.40.51:521][592]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 256X256)
+[2020.06.01-22.40.51:521][592]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 256X256)
+[2020.06.01-22.40.51:521][592]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 256X256)
+[2020.06.01-22.40.51:521][592]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 256X256)
+[2020.06.01-22.40.51:522][592]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 256X256)
+[2020.06.01-22.40.51:522][592]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 256X256)
+[2020.06.01-22.40.51:522][592]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 256X256)
+[2020.06.01-22.40.51:522][592]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 256X256)
+[2020.06.01-22.40.51:522][592]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 256X256)
+[2020.06.01-22.40.51:522][592]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 256X256)
+[2020.06.01-22.40.51:522][592]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 256X256)
+[2020.06.01-22.40.51:522][592]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 256X256)
+[2020.06.01-22.40.51:522][592]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 256X256)
+[2020.06.01-22.40.51:522][592]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 256X256)
+[2020.06.01-22.40.51:523][592]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 256X256)
+[2020.06.01-22.40.51:523][592]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 256X256)
+[2020.06.01-22.40.51:523][592]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 256X256)
+[2020.06.01-22.40.51:523][592]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 256X256)
+[2020.06.01-22.40.51:523][592]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 256X256)
+[2020.06.01-22.40.51:525][592]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 256X256)
+[2020.06.01-22.40.51:600][592]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 256X256)
+[2020.06.01-22.40.51:600][592]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 256X256)
+[2020.06.01-22.40.51:601][592]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 256X256)
+[2020.06.01-22.40.51:601][592]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 256X256)
+[2020.06.01-22.40.51:601][592]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 256X256)
+[2020.06.01-22.40.51:601][592]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 256X256)
+[2020.06.01-22.40.51:601][592]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 256X256)
+[2020.06.01-22.40.51:601][592]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 256X256)
+[2020.06.01-22.40.51:601][592]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 256X256)
+[2020.06.01-22.40.51:601][592]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 256X256)
+[2020.06.01-22.40.51:602][592]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 32X32)
+[2020.06.01-22.40.51:602][592]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 256X256)
+[2020.06.01-22.40.51:661][592]Lightmass on HADES: 3:45 min total, 3.95 sec importing, 7.80 sec setup, 1:04 min photons, 2:29 min processing, 0 ms extra exporting [65/65 mappings]. Threads: 9:56 min total, 6:28 min processing.
+[2020.06.01-22.40.51:697][592]LogStaticLightingSystem: Battleground_BuiltData storing lightmap data for 65 meshes in 65 LightmapResourceClusters (1.0 Meshes per cluster).
+[2020.06.01-22.40.52:667][592]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2020.06.01-22.40.52:698][592]LogStaticLightingSystem: Illumination: 3:53 min (14.9 sec encoding lightmaps, 481 ms encoding shadowmaps)
+[2020.06.01-22.40.52:698][592]LogStaticLightingSystem: Lightmap texture memory:  32.0 MB (32.0 MB streaming, 0.0 MB non-streaming), 130 textures
+[2020.06.01-22.40.52:698][592]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 65 textures
+[2020.06.01-22.40.52:789][592]DumpUnbuiltLightIteractions
+[2020.06.01-22.40.52:790][592]Lights with unbuilt interactions: 0
+[2020.06.01-22.40.52:790][592]
+[2020.06.01-22.40.52:790][592]Primitives with unbuilt interactions: 0
+[2020.06.01-22.40.52:905][593]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.06.01-22.40.52:905][593]MapCheck: New page: Battleground - Jun 1, 2020, 12:40:52 PM
+[2020.06.01-22.40.52:908][593]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.564ms to complete.
+[2020.06.01-22.44.15:996][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.06.01-22.44.16:497][202]LogSavePackage: Moving 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Saved/Battleground_Auto2C8038B0148F13C8D55EA6F8526AC78EC.tmp' to 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Saved/Autosaves/Game/Battleground_Auto2.umap'
+[2020.06.01-22.44.16:506][202]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Battleground' took 0.534
+[2020.06.01-22.44.16:506][202]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.534
+[2020.06.01-22.54.16:662][  3]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.06.01-22.54.16:663][  3]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Battleground' took 0.028
+[2020.06.01-22.59.41:436][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.06.01-22.59.41:653][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.06.01-22.59.42:148][989]LogSavePackage: Moving 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Saved/BattlegroundB59F87C542472075672EC589C84FEC30.tmp' to 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Content/Battleground.umap'
+[2020.06.01-22.59.42:340][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Battleground_BuiltData" FILE="C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Content/Battleground_BuiltData.uasset" SILENT=true
+[2020.06.01-22.59.44:222][989]LogSavePackage: Moving 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Saved/Battleground_BuiltDataED83E82F4A2050EF2C46BBB63BE70621.tmp' to 'C:/Users/Eric/Documents/Unreal Projects/Unreal_BattleTanks/BattleTanks/BattleTanks/Content/Battleground_BuiltData.uasset'
+[2020.06.01-22.59.46:839][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.01-22.59.46:949][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.06.01-22.59.47:287][280]LogSlate: Window 'BattleTanks - Unreal Editor' being destroyed
+[2020.06.01-22.59.50:753][281]Cmd: QUIT_EDITOR
+[2020.06.01-22.59.52:605][281]LogExit: Preparing to exit.
